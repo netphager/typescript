@@ -31,7 +31,7 @@ class Point {
     }
 
 }
-
+//
 class Car {
     price: number;
     mark: string;
